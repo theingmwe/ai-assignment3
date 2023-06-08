@@ -1,0 +1,13 @@
+The Results:
+
+Accuracy for 25% of the training data: 74.74949899799599
+Accuracy for the test data: 50.10060362173038
+
+Accuracy for 50% of the training data: 83.96793587174348
+Accuracy for the test data: 49.49698189134809
+
+Accuracy for 75% of the training data: 90.98196392785572
+Accuracy for the test data: 51.50905432595574
+
+Accuracy for 100% of the training data: 97.79559118236473
+Accuracy for the test data: 56.13682092555332
